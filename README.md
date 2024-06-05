@@ -1,4 +1,5 @@
 # Front-end Style Guide
+![image](https://github.com/Artemitol/social-link/assets/148280392/26fe50d5-e325-4eb4-9a66-679c8090cb78)
 
 ## Layout
 
